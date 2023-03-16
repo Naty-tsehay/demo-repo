@@ -1,3 +1,3 @@
 # DEMO
 
-simple discription of demo
+simple discription of demonstration on git!!
